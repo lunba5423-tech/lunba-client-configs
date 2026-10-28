@@ -1,0 +1,12 @@
+{
+  "key.category.cheatclient.main": "Lunba Client",
+  "key.cheatclient.gui": "Open menu",
+  "key.cheatclient.autocart": "Auto Cart (bow)",
+  "key.cheatclient.cobweb": "Cobweb Placer",
+  "key.cheatclient.anchor": "Anchor Macro",
+  "key.cheatclient.safeanchor": "Safe Anchor"
+,
+  "gui.cheatclient.bind": "Bind: %s",
+  "gui.cheatclient.use_key": "Use key: %s",
+  "gui.cheatclient.bind_listening": "Press a key..."
+}
